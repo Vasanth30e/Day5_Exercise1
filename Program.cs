@@ -31,7 +31,7 @@ namespace Day5_Exercise1
                 }
 
             }
-            Console.WriteLine("\nSalary for the entire week");
+            Console.WriteLine("\nSalary for the 5 days");
             Console.WriteLine("Day1\tDay2\tDay3\tDay4\tDay5\tTotalSalary\n");
             for (int i = 0;i < numOfEmployess; i++)
             {
